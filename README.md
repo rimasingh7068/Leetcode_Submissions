@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Math
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
