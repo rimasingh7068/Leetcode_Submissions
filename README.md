@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -116,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
