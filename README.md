@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0455-assign-cookies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -122,10 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0015-3sum) |
+| [0455-assign-cookies](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
 | ------- |
@@ -133,9 +136,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0678-valid-parenthesis-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0136-single-number) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
