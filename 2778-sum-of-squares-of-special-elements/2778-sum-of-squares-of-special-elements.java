@@ -1,0 +1,16 @@
+class Solution {
+    public int sumOfSquares(int[] nums) {
+        int n = nums.length;
+        int sum = 0;
+        
+        for (int i = 1; i <= n; i++) {
+            if (n % i == 0) {
+                // Since i is 1-indexed, the corresponding array element is nums[i - 1]
+                int val = nums[i - 1];
+                sum += val * val;
+            }
+        }
+        
+        return sum;
+    }
+}
