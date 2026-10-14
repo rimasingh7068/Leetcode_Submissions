@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0455-assign-cookies) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0169-majority-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0455-assign-cookies) |
 ## Backtracking
@@ -157,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rimasingh7068/Leetcode_GFG_Submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
